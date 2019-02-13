@@ -6,3 +6,4 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS 1)
 
 add_subdirectory(frank-parser)
 add_subdirectory(frank-astprinter)
+add_subdirectory(frank-headerprinter)
